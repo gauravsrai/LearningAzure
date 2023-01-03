@@ -7,6 +7,7 @@ public class Main  extends BaseTest {
     @Test
     public void buyCourse() {
 
+        System.out.println("helloooo everyone");
         System.out.println("Application launched");
         System.out.println("Hello world!");
     }
